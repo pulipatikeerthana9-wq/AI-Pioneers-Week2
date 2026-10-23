@@ -1,0 +1,9 @@
+{
+  "random_seed": 42,
+  "test_size": 0.2,
+  "sklearn_version": "1.6.1",
+  "regression_dataset": "scikit-learn Diabetes (442 rows, 10 features)",
+  "classification_dataset": "scikit-learn Breast Cancer Wisconsin (569 rows, 30 features)",
+  "classification_positive_class": "malignant (re-mapped to 1)",
+  "note": "Holdout benchmark results; not clinical guidance or a guarantee of generalization."
+}

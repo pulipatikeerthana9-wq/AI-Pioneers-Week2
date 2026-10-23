@@ -1,0 +1,4 @@
+model,n_train,n_test,MAE,RMSE,R2
+Linear Regression,353,89,42.794095,53.853446,0.452603
+K-Nearest Neighbors,353,89,42.777528,55.203713,0.424809
+Random Forest,353,89,44.276124,54.461217,0.440178
